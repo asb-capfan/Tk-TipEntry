@@ -206,7 +206,7 @@ any later version of Perl 5 you may have available.
 
 This module was designed after L<Tk::FilterEntry>.
 
-Alexander Becker, L<c a p f a n -at- g m x -dot- d e>
+Alexander Becker, L<asb@cpan.org>
 
 =cut
 
