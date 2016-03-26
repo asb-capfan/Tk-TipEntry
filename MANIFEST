@@ -7,5 +7,5 @@ META.yml			Module YAML meta-data (added by MakeMaker)
 README
 t/00-load-Tk-TipEntry.t
 t/02-tipentry.t
-t/03-pod-coverage.t
-t/90-pod.t
+xt/90-pod.t
+xt/91-pod-coverage.t
