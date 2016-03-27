@@ -9,6 +9,7 @@ ok($@, "", "loading Tk module");
  
 eval {$mw = MainWindow->new() };
 if ($mw) {
+    $mw->geometry('+1+1');
     eval "require Tk::TipEntry;";
     ok($@, "", "Error loading Tk::TipEntry");
  

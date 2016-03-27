@@ -1,5 +1,8 @@
 Revision history for Perl extension Tk::TipEntry.
 
+0.06 2016-03-27
+	- fix RT #113361 (Slaven Rezić)
+
 0.05 2016-03-26
 	- new contact details
 	- changed date format in Changes file

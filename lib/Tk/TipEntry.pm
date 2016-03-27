@@ -6,7 +6,7 @@ use warnings;
 use Tk;
 use Tk::Entry;
 
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 use base qw(Tk::Derived Tk::Entry);
 
